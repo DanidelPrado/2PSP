@@ -56,5 +56,6 @@ public class AE1_8 {
 
     public static void main(String[] args) {
         Intervalos();
+
     }
 }
