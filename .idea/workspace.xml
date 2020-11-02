@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b23d1dd-0341-462f-a7a6-d395913974b4" name="Default Changelist" comment="8vo Ejercicio" />
+    <list default="true" id="0b23d1dd-0341-462f-a7a6-d395913974b4" name="Default Changelist" comment="8vo Ejercicio">
+      <change afterPath="$PROJECT_DIR$/AE2/src/main/java/es.florida/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AE2/src/main/java/es.florida/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AE2/src/main/java/es.florida/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AE2/src/main/java/es.florida/MemberCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AE2/src/main/java/es.florida/MemberMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +35,17 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="AE1_8" />
+        <entry key="$PROJECT_DIR$" value="AE1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,29 +58,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AE2/src/out/production/2PSP/es/florida" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Desktop\Clase\2º DAM\2PSP\AE2\src\out\production\2PSP\es\florida" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Desktop\Clase\2º DAM\2PSP\ANE_Ficheros" />
       <recent name="C:\Users\usuario\Desktop\Clase\2º DAM\2PSP" />
       <recent name="C:\Users\usuario\AppData\Roaming\JetBrains\IdeaIC2020.2\scratches" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="AE1_5" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE1_5" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/AE1_5.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AE1_6" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE1_6" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/AE1_6.java" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.florida.Main" />
+      <module name="2PSP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,20 +96,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AE2_2" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AE2_2" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/AE2_2.java" />
+    <configuration name="ANE_1" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.florida.ANE_1" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/ANE_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ANE_Randoms" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.florida.ANE_Randoms" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/ANE_Randoms.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.ANE_Randoms" />
+        <item itemvalue="Java Scratch.ANE_1" />
         <item itemvalue="Java Scratch.AE1_8" />
         <item itemvalue="Java Scratch.AE1_7" />
-        <item itemvalue="Java Scratch.AE1_6" />
-        <item itemvalue="Java Scratch.AE2_2" />
-        <item itemvalue="Java Scratch.AE1_5" />
       </list>
     </recent_temporary>
   </component>
@@ -124,33 +142,47 @@
     <MESSAGE value="6to Ejercicio" />
     <MESSAGE value="7to Ejercicio" />
     <MESSAGE value="8vo Ejercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="8vo Ejercicio" />
+    <MESSAGE value="añado carpeta AE1" />
+    <MESSAGE value="carpeta AE1" />
+    <option name="LAST_COMMIT_MESSAGE" value="carpeta AE1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="363" y="72" key="#Project_Structure" timestamp="1604353766349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="363" y="72" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604353766349" />
     <state x="337" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601392883239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601392883239" />
-    <state x="663" y="253" key="FileChooserDialogImpl" timestamp="1601451556539">
+    <state x="666" y="392" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604354507526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="663" y="253" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601451556539" />
-    <state width="1340" height="230" key="GridCell.Tab.0.bottom" timestamp="1601460894253">
+    <state x="666" y="392" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1604354507526" />
+    <state x="701" y="454" key="DetectedRootsChooserDialog" timestamp="1602780781541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601460894253" />
-    <state width="1340" height="230" key="GridCell.Tab.0.center" timestamp="1601460894253">
+    <state x="701" y="454" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602780781541" />
+    <state x="663" y="253" key="FileChooserDialogImpl" timestamp="1604354543547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601460894253" />
-    <state width="1340" height="230" key="GridCell.Tab.0.left" timestamp="1601460894253">
+    <state x="663" y="253" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604354543547" />
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom" timestamp="1602784922927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601460894253" />
-    <state width="1340" height="230" key="GridCell.Tab.0.right" timestamp="1601460894253">
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602784922927" />
+    <state width="1340" height="230" key="GridCell.Tab.0.center" timestamp="1602784922927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601460894253" />
+    <state width="1340" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602784922927" />
+    <state width="1340" height="230" key="GridCell.Tab.0.left" timestamp="1602784922927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602784922927" />
+    <state width="1340" height="230" key="GridCell.Tab.0.right" timestamp="1602784922927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602784922927" />
     <state width="1340" height="285" key="GridCell.Tab.1.bottom" timestamp="1601460894251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,13 +199,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="285" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601460894251" />
-    <state x="384" y="143" key="SettingsEditor" timestamp="1601451516944">
+    <state x="384" y="143" key="SettingsEditor" timestamp="1604354545811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="384" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601451516944" />
-    <state x="475" y="218" key="Vcs.Push.Dialog.v2" timestamp="1601460831846">
+    <state x="384" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604354545811" />
+    <state x="475" y="218" key="Vcs.Push.Dialog.v2" timestamp="1602776324046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="475" y="218" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601460831846" />
+    <state x="475" y="218" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602776324046" />
+    <state x="520" y="118" key="new project wizard" timestamp="1604352102793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="118" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604352102793" />
   </component>
 </project>
