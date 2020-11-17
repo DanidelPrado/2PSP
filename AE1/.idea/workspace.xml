@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88ae75f-cdae-4c81-a639-16b0516bf7b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/es/florida/Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/MailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/es/florida/MailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/es/florida/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/MemberCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/es/florida/MemberCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/MemberMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AE2/src/main/java/es.florida/es/florida/MemberMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2PSP-AE2Final/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2PSP-AE2Final/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_PSP/src/es/florida/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_PSP/src/es/florida/App2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +40,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ExamenVicentSargues" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88ae75f-cdae-4c81-a639-16b0516bf7b4" name="Default Changelist" comment="" />
+      <created>1605633491244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605633491244</updated>
+    </task>
+    <servers />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -56,5 +64,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605639521887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605639521887" />
   </component>
 </project>

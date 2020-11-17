@@ -1,7 +1,4 @@
-sincronizar
 hilos
-extraer
-refactorizar
 constantes
 variables
 proceso
@@ -12,9 +9,8 @@ multitarea
 nucleos
 fork
 ejecutable
-unix
 windows
-expedir
 pausar
 prioridades
 servicios
+
