@@ -2,8 +2,8 @@ package es.florida;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        MemberCreator miembro1 = new MemberCreator();
-        MemberMonitor miembro2 = new MemberMonitor();
+        es.florida.MemberCreator miembro1 = new es.florida.MemberCreator();
+        es.florida.MemberMonitor miembro2 = new es.florida.MemberMonitor();
         Thread monitorThread = new Thread(miembro2);
         Thread creatorThread = new Thread(miembro1);
         creatorThread.start();
